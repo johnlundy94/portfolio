@@ -6,9 +6,9 @@ function NavBar() {
     <>
       <div class="navbar bg-neutral text-neutral-content">
         <div class="flex-1">
-          <a class="btn btn-ghost normal-case text-xl">
+          <Link to="/" class="btn btn-ghost normal-case text-xl">
             John Lundy's Portfolio
-          </a>
+          </Link>
         </div>
         <div class="flex-none menu-options-container">
           <ul class="menu menu-horizontal p-0 menu-options">
