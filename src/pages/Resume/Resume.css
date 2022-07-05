@@ -1,0 +1,17 @@
+.resume-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.resume {
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.resume a {
+  padding: 40px 10px;
+  text-decoration: none;
+  color: white;
+}
