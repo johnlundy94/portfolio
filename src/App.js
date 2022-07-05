@@ -3,12 +3,15 @@ import "./App.css";
 
 import NavBar from "./pages/NavBar/NavBar";
 import Portfolio from "./pages/Portfolio/Portfolio";
+import Home from "./pages/Home/Home";
 
 function App() {
   return (
     <Router>
       <Routes>
         <Route path="/" element={<NavBar />}>
+          <Route path="/" element={<Home />} />
+
           <Route path="/portfolio" element={<Portfolio />} />
         </Route>
       </Routes>
