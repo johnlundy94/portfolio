@@ -18,9 +18,6 @@ function NavBar() {
             <Link to="/about-me" className="link-tags">
               <a>About Me</a>
             </Link>
-            <Link to="/contact-me" className="link-tags">
-              <a>Contact Me</a>
-            </Link>
             <Link to="/resume" className="link-tags">
               <a>Resume</a>
             </Link>
