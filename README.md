@@ -15,7 +15,7 @@ This portfolio was the first "project" that I worked on with React... and I love
 
 ## Contribute
 
-If there are any comments, concerns or job opportunities, please reach out to my email at johnlundy94@gmail.com.
+If there are any comments, concerns or job opportunities, please reach out to my email at johnclundyy@gmail.com.
 
 ## Live Link
 
