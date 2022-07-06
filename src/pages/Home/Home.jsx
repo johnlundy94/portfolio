@@ -5,15 +5,15 @@ import "./Home.css";
 export default function AboutMe() {
   return (
     <div>
-      <h1 className="intro-heading normal-case text-xl">Introduction</h1>
-      <p className="intro-paragraph">
+      <h1 className="home-intro-heading normal-case text-xl">Introduction</h1>
+      <p className="home-intro-paragraph">
         Hello and welcome to my portfolio! My name is John Lundy and I am a
         software developer that has recently graduated from The University of
         Denver's BootCamp. I excel in React, JavaScript and back end frameworks,
         such as Node.js or MongoDB.
       </p>
-      <h2 className="intro-heading normal-case text-xl">
-        A few of my favorite projects
+      <h2 className="home-intro-heading normal-case text-xl">
+        Here are a couple of my favorite projects for you to take a look at!
       </h2>
       <div className="flex-container">
         <div className="image-container">
@@ -27,8 +27,12 @@ export default function AboutMe() {
               the airbnb website.
             </p>
             <p class="image-description">Technologies used: Firebase, React</p>
-            <a href="https://github.com/irv0735/Abode_Group_V2">GitHub Repo</a>
-            <a href="https://abode-group.netlify.app/">Live Site</a>
+            <a href="https://github.com/irv0735/Abode_Group_V2" className="btn">
+              GitHub Repo
+            </a>
+            <a href="https://abode-group.netlify.app/" className="btn">
+              Live Site
+            </a>
           </div>
         </div>
         <div className="image-container">
@@ -46,10 +50,15 @@ export default function AboutMe() {
             <p class="image-description">
               Technologies used: MongoDB, Express, Apollo, Node.js, React
             </p>
-            <a href="https://github.com/akerschen-coder/peoples-recipes">
+            <a
+              href="https://github.com/akerschen-coder/peoples-recipes"
+              className="btn"
+            >
               GitHub Repo
             </a>
-            <a href="https://secret-lake-40251.herokuapp.com/">Live Site</a>
+            <a href="https://secret-lake-40251.herokuapp.com/" className="btn">
+              Live Site
+            </a>
           </div>
         </div>
       </div>

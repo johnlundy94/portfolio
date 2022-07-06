@@ -24,8 +24,20 @@ function Portfolio() {
               the airbnb website.
             </p>
             <p class="image-description">Technologies used: Firebase, React</p>
-            <a href="https://github.com/irv0735/Abode_Group_V2">GitHub Repo</a>
-            <a href="https://abode-group.netlify.app/">Live Site</a>
+            <a
+              href="https://github.com/irv0735/Abode_Group_V2"
+              target="none"
+              className="btn"
+            >
+              GitHub Repo
+            </a>
+            <a
+              href="https://abode-group.netlify.app/"
+              target="none"
+              className="btn"
+            >
+              Live Site
+            </a>
           </div>
         </div>
         <div className="image-container">
@@ -43,10 +55,20 @@ function Portfolio() {
             <p class="image-description">
               Technologies used: MongoDB, Express, Apollo, Node.js, React
             </p>
-            <a href="https://github.com/akerschen-coder/peoples-recipes">
+            <a
+              href="https://github.com/akerschen-coder/peoples-recipes"
+              target="none"
+              className="btn"
+            >
               GitHub Repo
             </a>
-            <a href="https://secret-lake-40251.herokuapp.com/">Live Site</a>
+            <a
+              href="https://secret-lake-40251.herokuapp.com/"
+              target="none"
+              className="btn"
+            >
+              Live Site
+            </a>
           </div>
         </div>
         <div className="image-container">
@@ -63,8 +85,20 @@ function Portfolio() {
             <p class="image-description">
               Technologies used: MySQL, Express, Handlebars, Sequelize
             </p>
-            <a href="https://github.com/johnlundy94/tech-blog">GitHub Repo</a>
-            <a href="https://damp-waters-87930.herokuapp.com/">Live Site</a>
+            <a
+              href="https://github.com/johnlundy94/tech-blog"
+              target="none"
+              className="btn"
+            >
+              GitHub Repo
+            </a>
+            <a
+              href="https://damp-waters-87930.herokuapp.com/"
+              target="none"
+              className="btn"
+            >
+              Live Site
+            </a>
           </div>
         </div>
         <div className="image-container">
@@ -81,7 +115,11 @@ function Portfolio() {
             <p class="image-description">
               Technologies used: Node.js, MySQL, Sequelize
             </p>
-            <a href="https://github.com/johnlundy94/E-Commerce-Back-End">
+            <a
+              className="btn"
+              href="https://github.com/johnlundy94/E-Commerce-Back-End"
+              target="none"
+            >
               GitHub Repo
             </a>
           </div>
@@ -99,8 +137,20 @@ function Portfolio() {
             <p class="image-description">
               Technologies used: JavaScript, Express, db.json
             </p>
-            <a href="https://github.com/johnlundy94/note-taker">GitHub Repo</a>
-            <a href="https://q-note-taker.herokuapp.com/">Live Site</a>
+            <a
+              href="https://github.com/johnlundy94/note-taker"
+              target="none"
+              className="btn"
+            >
+              GitHub Repo
+            </a>
+            <a
+              href="https://q-note-taker.herokuapp.com/"
+              target="none"
+              className="btn"
+            >
+              Live Site
+            </a>
           </div>
         </div>
         <div className="image-container">
@@ -119,8 +169,20 @@ function Portfolio() {
               Technologies used: JavaScript, third party API: OpenWeather One
               Call
             </p>
-            <a href="https://github.com/johnlundy94/weather-app">GitHub Repo</a>
-            <a href="https://johnlundy94.github.io/weather-app/">Live Site</a>
+            <a
+              href="https://github.com/johnlundy94/weather-app"
+              target="none"
+              className="btn"
+            >
+              GitHub Repo
+            </a>
+            <a
+              href="https://johnlundy94.github.io/weather-app/"
+              target="none"
+              className="btn"
+            >
+              Live Site
+            </a>
           </div>
         </div>
       </div>

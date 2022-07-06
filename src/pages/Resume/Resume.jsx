@@ -5,11 +5,11 @@ import "./Resume.css";
 export default function Resume() {
   return (
     <div className="resume-container normal-case text-xl">
-      <h1>Resume</h1>
-      <div>
-        <address className="resume normal-case text-xl">
-          <a href={Res}>Click here to download my Resume</a>
-        </address>
+      <h1 className="resume-heading">Resume</h1>
+      <div className="resume">
+        <a className="btn" href={Res} target="none">
+          Click here to download my Resume
+        </a>
       </div>
     </div>
   );
