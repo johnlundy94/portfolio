@@ -19,7 +19,7 @@ If there are any comments, concerns or job opportunities, please reach out to my
 
 ## Live Link
 
-[Link to working site](https://johnlundyportfolio.netlify.app/)
+[Link to working site](https://john-lundys-portfolio.netlify.app/)
 
 ## Questions
 
