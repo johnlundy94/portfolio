@@ -7,3 +7,10 @@
   margin-left: 10px;
   margin-right: 10px;
 }
+
+@media (max-width: 427px) {
+  .menu-options-container {
+    align-self: flex-end;
+    margin-top: 80px;
+  }
+}

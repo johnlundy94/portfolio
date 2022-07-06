@@ -16,3 +16,21 @@
 .image-description {
   text-align: center;
 }
+
+@media (max-width: 1250px) {
+  .home-intro-paragraph {
+    margin-top: 100px;
+    margin-bottom: 60px;
+    margin-right: 200px;
+    margin-left: 200px;
+  }
+}
+
+@media (max-width: 635px) {
+  .home-intro-paragraph {
+    margin-top: 100px;
+    margin-bottom: 60px;
+    margin-right: 50px;
+    margin-left: 50px;
+  }
+}

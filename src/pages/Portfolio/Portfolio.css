@@ -59,3 +59,24 @@
 .btn {
   margin: 10px;
 }
+
+@media (max-width: 707px) {
+  .image {
+    width: 600px;
+    height: 300px;
+  }
+}
+
+@media (max-width: 707px) {
+  .image-overlay {
+    width: 600px;
+    height: 300px;
+  }
+}
+
+@media (max-width: 384px) {
+  .image-overlay {
+    width: 375px;
+    height: 300px;
+  }
+}
